@@ -1,6 +1,5 @@
-|   	|   	|   	|   	|   	|
+| Manifesto  	|  Asinantes 	|   Asinar o manifesto	|  Contacto 	|   	|
 |:-:	|:-:	|:-:	|---	|---	|
-|   	|   	|   	|   	|   	|
 
 # Polo Software Libre na Educación Galega
 
