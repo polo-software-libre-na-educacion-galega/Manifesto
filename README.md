@@ -1,5 +1,5 @@
-| Manifesto  	|  Asinantes 	|   Asinar o manifesto	|  Contacto 	|   	|
-|:-:	|:-:	|:-:	|---	|---	|
+| Manifesto  	|  Asinantes 	|   Asinar o manifesto	|  Contacto 	|   [I'm an inline-style link](https://www.google.com)
+	|
 
 # Polo Software Libre na Educación Galega
 
