@@ -12,3 +12,4 @@
 * [Gpul](https://gpul.org/)
 * [Ghandalf ](http://www.ghandalf.org/)
 * [Aberteo ](http://www.aberteo.gal/) 
+* [Nova Escola Galega](http://www.nova-escola-galega.org/)
