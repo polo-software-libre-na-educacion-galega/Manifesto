@@ -2,4 +2,4 @@
 
 # Apoiar 
 
-Calquera persoa ou asociación pode apoiar o manifesto. Para elo únicamente ten que enviar un correo a seguinte enderezo: manifesto@xeopesca.gal 
+Calquera persoa ou asociación pode apoiar o manifesto. Para elo únicamente ten que enviar un correo a seguinte enderezo: [manifesto@xeopesca.gal](mailto:manifesto@xeopesca.gal)  
