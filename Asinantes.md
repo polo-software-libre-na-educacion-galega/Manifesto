@@ -1,7 +1,7 @@
 |   [Manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/)	|   [Asinantes](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Asinantes)	|    [Como apoiar o manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Apoiar)	|   [Contacto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Conctacto)	|   
 
 
-# Asinantes
+# Promotores da iniciativa
 * [Asociación  Xeopesca ](https://www.xeopesca.gal/)
 * [Comunidade o Zulo](https://www.comunidadeozulo.org/)
 * [Recuncho Maker ](https://recunchomaker.org/)
@@ -13,3 +13,14 @@
 * [Ghandalf ](http://www.ghandalf.org/)
 * [Aberteo ](http://www.aberteo.gal/) 
 * [Nova Escola Galega](http://www.nova-escola-galega.org/)
+
+# Entidades asinantes
++ Asociación EuroEume
++ Asociación Cultural Trépia
++ Asociación Arteixo TIC - Árticos
+
+# Persoas asinantes
++ Elvira Moroño 
++ Daniel Muñiz Fontoira
++ Brais Preto Fernández, docente de secundaria
+
