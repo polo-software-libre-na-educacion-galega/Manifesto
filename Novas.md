@@ -1,6 +1,6 @@
 |   [Manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/)	|   [Asinantes](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Asinantes)	|    [Como apoiar o manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Apoiar)	|   [Contacto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Conctacto)	| [Novas](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Novas)	|    
 
-#Novas 
+# Novas 
 
 ## Novas sobre o lanzamento do manifesto
 * Praza Pública: [O sector galego do software libre critica a aposta da Xunta polos programas de Microsoft no ensino](https://praza.gal/ciencia-e-tecnoloxia/o-sector-galego-do-software-libre-critica-a-aposta-da-xunta-polos-programas-de-microsoft-no-ensino)
