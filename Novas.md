@@ -11,3 +11,5 @@
 * Galicia Hoxe: [O sector de software libre arremete contra a Xunta polo seu acordo con Microsoft para as escolas ](http://www.galiciahoxe.com/vivir-hoxe-galicia/gh/sector-software-libre-arremete-xunta-polo-seu-acordo-microsoft-as-escolas/idEdicion-2019-06-26/idNoticia-1190848/)
 * Galicia Confidencial: [O sector de software libre critica á Xunta polo seu macro acordo en Educación coa multinacional Microsoft ](http://www.galiciaconfidencial.com/noticia/97978-sector-software-libre-critica-xunta-polo-macro-acordo-educacion-coa-multinacional-microsoft)
 
+
+[Máis información ](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/novas/2019/06/20190626)
