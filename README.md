@@ -1,6 +1,6 @@
 
 
-|   [Manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/)	|   [Asinantes](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Asinantes)	|    [Como apoiar o manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Apoiar)	|   [Contacto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Conctacto)	|   
+|   [Manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/)	|   [Asinantes](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Asinantes)	|    [Como apoiar o manifesto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Apoiar)	|   [Contacto](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Conctacto)	| [Novas](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/Novas)	|    
 
 
 # Polo Software Libre na Educación Galega
