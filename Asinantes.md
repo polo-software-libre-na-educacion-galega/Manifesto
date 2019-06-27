@@ -18,9 +18,21 @@
 + Asociación EuroEume
 + Asociación Cultural Trépia
 + Asociación Arteixo TIC - Árticos
++ Frente Cívico A Coruña
++ Bloque Nacionalista Galego 
++ Marchas da Dignidade de Galicia
++ Defensa Tren Coruña
 
 # Persoas asinantes
 + Elvira Moroño 
 + Daniel Muñiz Fontoira
 + Brais Preto Fernández, docente de secundaria
++ Natalia Lage Pardo
++ Cristina Pavón Mauriz, docente do ensino público.
++ Ignacio
++ Fina Guitián Lema, Vedra, A Coruña
++ Abelardo Rendo
++ Daniel Espiñeira Cupeiro
++ Eduardo Alonso Gil.
++ Jose Miguel
 
