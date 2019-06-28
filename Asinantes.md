@@ -22,6 +22,7 @@
 + Bloque Nacionalista Galego 
 + Marchas da Dignidade de Galicia
 + Defensa Tren Coruña
++ STEG - Sindicato de Traballadoras e Traballadores do Ensino de Galiza 
 
 # Persoas asinantes
 + Elvira Moroño 
