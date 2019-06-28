@@ -43,3 +43,12 @@
 + Iago Fernández Meilán
 + Carmen Peña Hernández, Pontevedra, Galiza 
 + Pablo Castro Valiño
++ Marcos Chavarría Teijeiro, docente de educación secundaria.
++ Miguel Rozados
++ David Albela Pérez
++ Almudena Alonso 
++ Serafín Vicente Lorenzo
++ Xoán Sampaíño Villagra, membro de Bricolabs
++ Santiago Lamelo
++ Anxo Sánchez García.
++ 
