@@ -37,4 +37,8 @@
 + Jose Miguel
 + Brais Arias Rio 
 + Pablo Belay Fernández 
-
++ Paulo Baña García
++ Xoán M. Arias Vázquez, Guitiriz
++ Iago Fernández Meilán
++ Carmen Peña Hernández, Pontevedra, Galiza 
++ Pablo Castro Valiño
