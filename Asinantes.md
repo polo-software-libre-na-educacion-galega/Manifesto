@@ -51,4 +51,4 @@
 + Xoán Sampaíño Villagra, membro de Bricolabs
 + Santiago Lamelo
 + Anxo Sánchez García.
-+ 
++ Beatriz García
