@@ -52,3 +52,5 @@
 + Santiago Lamelo
 + Anxo Sánchez García.
 + Beatriz García
++ Pablo Cancelo 
++ Carlos Mañoso Sierra
