@@ -23,6 +23,8 @@
 + Marchas da Dignidade de Galicia
 + Defensa Tren Coruña
 + STEG - Sindicato de Traballadoras e Traballadores do Ensino de Galiza 
++ CIG Ensino - Confederencial Intersindical Galega 
+
 
 # Persoas asinantes
 + Elvira Moroño 
@@ -54,3 +56,9 @@
 + Beatriz García
 + Pablo Cancelo 
 + Carlos Mañoso Sierra
++ Alex Perina
++ Serafín Villar
++ Victor Lopez
++ Rafael Perez
+
+
