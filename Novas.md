@@ -11,15 +11,7 @@ Nos últimos días coñeceuse que a privacidade do Office 365 está sendo cuesti
 * [Algunas escuelas alemanas prohíben Microsoft Office 365 por cuestiones de privacidad](https://www.muyseguridad.net/2019/07/15/microsoft-office-365/ )
 * [La razón por la que los colegios en Alemania prohíben usar Office 365]( https://www.eltiempo.com/tecnosfera/novedades-tecnologia/por-que-los-colegios-en-alemania-prohiben-usar-office-365-388518)
 
-Novas en ingés:
-
-* [Microsoft Office 365: Banned in German schools over privacy fears ](https://www.zdnet.com/article/microsoft-office-365-banned-in-german-schools-over-privacy-fears/ )
-* [German schools ban Office 365 over privacy concerns ]( https://www.theinquirer.net/inquirer/news/3078926/office-365-german-schools-ban-gdpr )
-* [Office 365 declared illegal in German schools due to privacy risks ](https://arstechnica.com/information-technology/2019/07/germany-threatens-to-break-up-with-microsoft-office-again/ )
-
-Mentras o Goberno Galego realiza pasos no sentido contrario perxudicando o ensino galego. 
-
-
+[Máis información ](https://polo-software-libre-na-educacion-galega.github.io/Manifesto/novas/2019/07/20190720_alemenha_office365)
 
 ## Novas sobre o lanzamento do manifesto
 * Praza Pública: [O sector galego do software libre critica a aposta da Xunta polos programas de Microsoft no ensino](https://praza.gal/ciencia-e-tecnoloxia/o-sector-galego-do-software-libre-critica-a-aposta-da-xunta-polos-programas-de-microsoft-no-ensino)
