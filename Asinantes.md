@@ -62,7 +62,10 @@
 + Rafael Pérez Nuñez
 + Rubén Gómez Antolí
 + Eloy López Peñamaría
-+
-+
++ Constante Manuel Rodríguez Castelo
++ Angel Navas Garay	Data	
++ Santi Moronho
++ Pablo Hinojosa Nava
++ 
 
 
