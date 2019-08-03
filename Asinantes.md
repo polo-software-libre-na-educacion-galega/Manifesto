@@ -24,7 +24,7 @@
 + Defensa Tren Coruña
 + STEG - Sindicato de Traballadoras e Traballadores do Ensino de Galiza 
 + CIG Ensino - Confederencial Intersindical Galega 
-
++ 
 
 # Persoas asinantes
 + Elvira Moroño 
@@ -66,6 +66,18 @@
 + Angel Navas Garay	Data	
 + Santi Moronho
 + Pablo Hinojosa Nava
-+ 
++ Xosé Manoel Marcote Gil
++ Alberto Fojo
++ M. Luz da Igrexa Prego
++ Carlos Rios Vilaboa
++ Alejandro Gandara Porteiro
++ José Villar Ramil
++ Xoán Xosé Lorenzo Lourido
++ Óscar Senra Gómez
++ Donato Rouco Fernández
++ Rubén Darío Regal Pajón
++ Afonso-Bieito Lorenzo Penela
++ Francisco Miguel Millán Rodríguez
++ Carlos Gómez Bermúdez
 
 
